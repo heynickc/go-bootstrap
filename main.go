@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/go-bootstrap/go-bootstrap/helpers"
+	"github.com/heynickc/go-bootstrap/helpers"
 )
 
 func main() {

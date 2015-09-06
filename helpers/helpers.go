@@ -41,7 +41,7 @@ func GetBlankDir() (string, error) {
 		return ret, nil
 	}
 
-	base := filepath.Join("src", "github.com", "go-bootstrap", "go-bootstrap")
+	base := filepath.Join("src", "github.com", "heynickc", "go-bootstrap")
 
 	// if the blank project can't be found in the executable's dir,
 	// try to locate the source code, it should be there.
